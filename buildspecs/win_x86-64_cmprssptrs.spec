@@ -133,6 +133,7 @@ SPDX-License-Identifier: EPL-2.0 OR Apache-2.0 OR GPL-2.0 WITH Classpath-excepti
 		<flag id="build_dropToHursley" value="true"/>
 		<flag id="build_dropToToronto" value="true"/>
 		<flag id="build_j2se" value="true"/>
+		<flag id="gc_idleHeapManager" value="true"/>
 		<flag id="build_java8" value="true"/>
 		<flag id="build_java9" value="false"/>
 		<flag id="build_openj9" value="true"/>
